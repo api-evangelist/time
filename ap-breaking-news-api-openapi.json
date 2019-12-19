@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "v2",
+        "title": "AP Breaking News API",
+        "description": "AP Breaking News API allows your organization to retrieve a list of available breaking news categories and then request content for a specific category.",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpdeveloperapi.ap.orgv2\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
