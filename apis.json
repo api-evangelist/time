@@ -1,0 +1,294 @@
+{
+    "name": "TIME",
+    "description": "Breaking news and analysis from TIME.com. Politics, world news, photos, video, tech reviews, health, science and entertainment news.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1031-time.jpg",
+    "tags": [
+        "financial services",
+        "have api",
+        "meta",
+        "news",
+        "news api",
+        "rdf"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/time\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "AP Content API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1031-time.jpg",
+            "humanURL": "http:\/\/time.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/ap-content-api.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ap-content-api-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ap-content-api-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "AP Metadata Services",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1031-time.jpg",
+            "humanURL": "http:\/\/time.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/ap-metadata-services.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ap-metadata-services-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ap-metadata-services-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "AP Breaking News API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1031-time.jpg",
+            "humanURL": "http:\/\/time.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/ap-breaking-news-api.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ap-breaking-news-api-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ap-breaking-news-api-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "TIME",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1031-time.jpg",
+            "humanURL": "http:\/\/time.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/time-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.ap.org"
+        },
+        {
+            "type": ".NET Library",
+            "url": "https:\/\/github.com\/TheAssociatedPress\/APISamples\/tree\/master\/APContentAPI\/dotnet"
+        },
+        {
+            "type": "Angular.js Library",
+            "url": "https:\/\/github.com\/TheAssociatedPress\/APISamples\/tree\/master\/APContentAPI\/angularjs"
+        },
+        {
+            "type": "Base",
+            "url": "http:\/\/cv.ap.org\/d\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.ap.org"
+        },
+        {
+            "type": "Branding",
+            "url": "http:\/\/www.ap.org\/company\/Brand"
+        },
+        {
+            "type": "Contact Form",
+            "url": "http:\/\/aphelp.ap.org\/ContactUs\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/time-2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/associated-press"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/associated-press"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/newyorktimes"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/usa-today"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fox-news-channel"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/reuters"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cnn-com"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.ap.org\/"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@time.com"
+        },
+        {
+            "type": "Email",
+            "url": "mediarelations@ap.org"
+        },
+        {
+            "type": "Email",
+            "url": "info@ap.org"
+        },
+        {
+            "type": "Email",
+            "url": "leaston@ap.org"
+        },
+        {
+            "type": "Email",
+            "url": "APCustomerSupport@ap.org"
+        },
+        {
+            "type": "Email",
+            "url": "newsmanager@foxnews.com"
+        },
+        {
+            "type": "Email",
+            "url": "deleteaccount@foxnews.com"
+        },
+        {
+            "type": "Email",
+            "url": "ldepartment@foxnews.com"
+        },
+        {
+            "type": "Email",
+            "url": "foxnewsonline@foxnews.com"
+        },
+        {
+            "type": "Explorer",
+            "url": "https:\/\/developer.ap.org\/api-console"
+        },
+        {
+            "type": "FAQ",
+            "url": "http:\/\/customersupport.ap.org\/api\/Help\/index.htm"
+        },
+        {
+            "type": "Free Trial",
+            "url": "http:\/\/www.aptn.com\/80256FE80050E128\/httpTrial?OpenForm&section=news&subsection=news"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/TheAssociatedPress"
+        },
+        {
+            "type": "Java Library",
+            "url": "https:\/\/github.com\/TheAssociatedPress\/APISamples\/tree\/master\/APContentAPI\/java\/src\/ap\/apisample"
+        },
+        {
+            "type": "Node.js Library",
+            "url": "https:\/\/github.com\/TheAssociatedPress\/APISamples\/tree\/master\/APContentAPI\/node"
+        },
+        {
+            "type": "PHP LIbrary",
+            "url": "https:\/\/github.com\/TheAssociatedPress\/APISamples\/tree\/master\/APContentAPI\/php"
+        },
+        {
+            "type": "Python Library",
+            "url": "https:\/\/github.com\/TheAssociatedPress\/APISamples\/tree\/master\/APContentAPI\/python"
+        },
+        {
+            "type": "Ruby Library",
+            "url": "https:\/\/github.com\/TheAssociatedPress\/APISamples\/tree\/master\/APContentAPI\/ruby"
+        },
+        {
+            "type": "Registration",
+            "url": "http:\/\/www.aptn.com\/80256FE40039EB88\/httpmyAccountRegister?OpenForm&url=http:\/\/www.aptn.com\/80256FE80050E128\/httpTrial?OpenForm&section=news&subsection=news"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TIME"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AP"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/nytimes"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/USATODAY"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FoxNews"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Reuters"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CNN"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/time.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/ap.org"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/usatoday.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/foxnews.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/reuters.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/cnn.com"
+        }
+    ]
+}
