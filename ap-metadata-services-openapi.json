@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "v1",
+        "title": "AP Metadata Services",
+        "description": "Add value to your news content with AP???s industry-leading metadata -- accurate, comprehensive, richly detailed data, designed specifically for use by news publishers. AP Metadata Services is a new set of APIs that gives you direct access to the same metadata system that supports AP???s award-winning, global news operation.",
+        "termsOfService": ""
+    },
+    "servers": [
+        "cv.ap.org\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
